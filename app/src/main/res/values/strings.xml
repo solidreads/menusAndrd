@@ -2,4 +2,6 @@
     <string name="app_name">MenuOpcionesContextoPopup</string>
     <string name="menu_about">About</string>
     <string name="menu_settings">Setting</string>
+    <string name="texto_about">About</string>
+    <string name="texto_settings">Settings</string>
 </resources>
