@@ -16,4 +16,13 @@
         android:layout_height="wrap_content"
         android:text="@string/nombre_persona"
         android:textSize="@dimen/texto_persona"/>
+
+    <ImageView
+        android:id="@+id/imgImagen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/adobespark"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="levantarmenuPopUp"/>
 </RelativeLayout>
